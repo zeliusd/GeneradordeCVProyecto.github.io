@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+body{
+    background: linear-gradient(black,#323232, black);
+    
+    background-attachment: scroll;
+    background-size: 150%;
+    font-family:Helvetica,Futura,Arial,Verdana,sans-serif;
+    
+ }
+ .rls{
+    background-color: #FFF;
+    width: auto;
+    font-weight: 700;
+    height: 300%;
+ }
+
+
+.letrapequeña{
+    font-weight: 400;
+    font-size: 13;
+}
+.gray{
+    color: #323232;
+}
+.chisai{
+    font-weight:400;
+    font-size:10;
+    color:#323232;
+}
+
+.tt { 
+    
+     height: auto;
+     width: 72%;
+}
+.autoresponsive{
+    width: auto;
+    height: auto;
+}
+.cursiva{
+    font-style: italic;
+}
+.pname{
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-large;
+    font-weight: 700;
+}
+.white{
+    color: #FFF;
+}
+.names{
+    width: 30%;
+    
+}
+.box{
+    width: 5%;
+    height: 10%;
+}
+
